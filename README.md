@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Python,Html,Css,Bootstrap,Javascript,Oraclesql**
 
-- 📫 How to reach me **kumararenukalakshmi@gmail.com**,**http://www.linkedin.com/in/renuka-lakshmi-kumara-a76977283**
+- 📫 How to reach me **kumararenukalakshmi@gmail.com**,
+**http://www.linkedin.com/in/renuka-lakshmi-kumara-a76977283**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
